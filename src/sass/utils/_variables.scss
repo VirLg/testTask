@@ -1,0 +1,18 @@
+:root {
+  // === Text and bg colors === */
+  //   --main-text-cl-light-theme: #111111;
+  //   --main-text-cl-dark-theme: #ffffff;
+  //   --secondary-text-cl: #b4afaf;
+  //   --accent-cl: #4f2ee8;
+  //   --secondary-accent-cl: #eac645;
+  //   --main-bg-cl: #f6f6f6;
+  //   --main-bg-cl-dark-theme: #202024;
+
+  --start-color: red;
+  --end-color: yellow;
+
+  //  === Other ===
+  --transform-scale: 1.015;
+  --timing-function: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  --height-header: 74px;
+}

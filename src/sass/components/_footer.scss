@@ -1,0 +1,37 @@
+.footer_Newsletter {
+  //   background-color: yellow;
+  width: 50%;
+  display: flex;
+  border-right: 2px solid teal;
+  justify-content: center;
+  align-items: center;
+  row-gap: 10px;
+}
+
+.newsletter_item:first-child {
+  margin-bottom: 6px;
+  margin-left: 100px;
+}
+.footer {
+  display: flex;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.footer_policy {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  padding: 10px;
+}
+.footer_list {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 8px;
+  outline: 1px solid red;
+}
+.fooret_addaction {
+  width: 50%;
+  padding: 15px;
+}

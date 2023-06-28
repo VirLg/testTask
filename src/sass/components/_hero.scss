@@ -1,0 +1,19 @@
+.tile {
+  background-image: linear-gradient(
+    to bottom,
+    var(--start-color),
+    var(--end-color)
+  );
+}
+.hero__container {
+  padding-top: 50px;
+}
+.main-title {
+  text-align: center;
+}
+.hero__text {
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 50px;
+}
